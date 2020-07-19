@@ -1,6 +1,6 @@
 # simple-php-pdo-class
 
-#This is simple php pdo Database management class
+#This is a simple php pdo Database management class
 
 #How to use
 Edit the ugophppdo to set dataabse options i.e Database type, Database host, Database username, Dataabse password
